@@ -1,0 +1,31 @@
+.welcome-message-manager {
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+  }
+
+   .menu-manager {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start; 
+    align-items: center; 
+    gap: 20px; 
+    padding: 0; 
+    margin: 0 auto; 
+    margin-top: 5%;
+    max-width: 540px; 
+  } 
+
+  .menu-button-manager { 
+    width: 250px;
+    height: 80px; 
+    font-size: 16px;
+    border-radius: 15px;
+    background-color: #D9D3DD;
+    color: #947F7F;
+    border: none;
+    cursor: pointer;
+  }

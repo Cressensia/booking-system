@@ -1,0 +1,35 @@
+.search-bar {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  
+  .table {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 3%;
+  }
+  
+  .table-header {
+    font-weight: bold;
+  }
+  
+  .search-bar{
+    width: 100;
+  }
+
+  .body{
+    margin-left: 3%;
+    
+
+  }
+  .select-work-slot{
+    margin-left: 9%;
+    padding-bottom: 2%;
+  }
+
+  .custom-select-wrapper{
+    width: 20%;
+  }
+  
+
+
