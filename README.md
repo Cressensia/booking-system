@@ -3,6 +3,7 @@ Hello:) this is a very simple staff booking system ive developed
 to try this pls use the following commands:
 
 npm install
+
 npm start
 
 -------------------------------------------------------
